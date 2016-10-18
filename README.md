@@ -1,1 +1,6 @@
 # coursera-algorithm-datastructure2
+--Offered by UC San Diego
+
+##Data Structure
+
+https://d18ky98rnyall9.cloudfront.net/_c59ef339a9c0e70cc54a1c9ee8dca2ac_Programming-Assignment-1.pdf?Expires=1476921600&Signature=DkYMJzD4C0nb7ZlgwQ9tAS5xHH4MfF4QaP-Y0eMOHtUknYmruNCSDbJ4zIUTgjFe19GTYS8QDFXBV63sdew36ZfPqmHjs3ZyY9vFfvIMPW10GYpDcuLTxyrfiaUAdwsjtN95qbHaIc7HfakDpIpTvXs-iQF8Px-i-f468B1aRds_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
